@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: b46a6ca5e1302e94c96f0b49488fed18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5823431080196466956
+    second: guisprite_0
+  - first:
+      213: 2666193860776464351
+    second: guisprite_1
+  - first:
+      213: -5359818869972852322
+    second: guisprite_2
+  - first:
+      213: 705296526846352558
+    second: guisprite_3
+  - first:
+      213: -7250279847832795203
+    second: guisprite_4
+  - first:
+      213: 2637976886909088153
+    second: guisprite_5
+  - first:
+      213: -4603170588839124106
+    second: guisprite_6
+  - first:
+      213: 1759178108137540478
+    second: guisprite_7
+  - first:
+      213: 4614653451190868542
+    second: guisprite_8
+  - first:
+      213: 3477410409157009430
+    second: guisprite_9
+  - first:
+      213: -3513302141027394599
+    second: guisprite_10
+  - first:
+      213: 1774964835063696965
+    second: guisprite_11
+  - first:
+      213: -1000934660704882346
+    second: guisprite_12
+  - first:
+      213: -3662668957723252697
+    second: guisprite_13
+  - first:
+      213: 6251968450903393977
+    second: guisprite_14
+  - first:
+      213: -3262490992622418716
+    second: guisprite_15
+  - first:
+      213: -2620815593203506140
+    second: guisprite_16
+  - first:
+      213: 2372473347399332125
+    second: guisprite_17
+  - first:
+      213: -2292561032109216126
+    second: guisprite_18
+  - first:
+      213: -9020180361463320173
+    second: guisprite_19
+  - first:
+      213: -7680128067043436144
+    second: guisprite_20
+  - first:
+      213: 7087600462972364098
+    second: guisprite_21
+  - first:
+      213: -3866462155573195145
+    second: guisprite_22
+  - first:
+      213: -2821102429095334346
+    second: guisprite_23
+  - first:
+      213: 3580659159206833122
+    second: guisprite_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guisprite_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1879
+        width: 676
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79e8265ac818f49a4a06f31eaec134
+      internalID: 5823431080196466956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_1
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1776
+        width: 477
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d20926ff058742b4d8a0b8ce271ad
+      internalID: 2666193860776464351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_2
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1793
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef744e3bf81228498a44a2425a11c1c
+      internalID: -5359818869972852322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_3
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1793
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389cdbb7a259f8840a976b3583211dd8
+      internalID: 705296526846352558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_4
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1793
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9126d43fc23741b823f418f90a7f5
+      internalID: -7250279847832795203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1271
+        width: 720
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf082e6058ba2f448153efa41a21929
+      internalID: 2637976886909088153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1526
+        width: 477
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca1d5dea67bed4ba849da07ab2be0e
+      internalID: -4603170588839124106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_7
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1661
+        width: 250
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311e3a2e8ddd1924e916c68a8a4c3d8d
+      internalID: 1759178108137540478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_8
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1567
+        width: 250
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f8fb99bba27149a7b34785f0eb2c4
+      internalID: 4614653451190868542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 591
+        width: 282
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acebc1ea8dd6c6418ec72d01421a15a
+      internalID: 3477410409157009430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1030
+        width: 425
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e75d9d25182cb43beca07537f7273f
+      internalID: -3513302141027394599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_11
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 659
+        width: 651
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fb4823dadca4f4098b923c2f681640
+      internalID: 1774964835063696965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 372
+        width: 189
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0315c4de57c3a439c42f5c9f1cc50b
+      internalID: -1000934660704882346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 354
+        width: 188
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a5a6081e743546b04fb808c727914
+      internalID: -3662668957723252697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 347
+        width: 182
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b437a1206d98fcd4f8068ca0db52e819
+      internalID: 6251968450903393977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 348
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c217c28f75228e348b960ddc94830fd1
+      internalID: -3262490992622418716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_16
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 351
+        width: 199
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c1ad30e01d25c4dade3c4202e9b41d
+      internalID: -2620815593203506140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_17
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 346
+        width: 251
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2933c1f6a9b3f443bbe2c62744f3f68
+      internalID: 2372473347399332125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_18
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 353
+        width: 226
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eba6cae89883a748a3efb0292d41333
+      internalID: -2292561032109216126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 68
+        width: 228
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a0e2196413aa418c126df99ac65a0
+      internalID: -9020180361463320173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 58
+        width: 220
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f730471add8e94b87159b87af64933
+      internalID: -7680128067043436144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 60
+        width: 200
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdea95f95b1cc042bd3c5a167d6389a
+      internalID: 7087600462972364098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_22
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 49
+        width: 190
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d5b49c8b493e4cba45380f589a175
+      internalID: -3866462155573195145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_23
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 48
+        width: 214
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d1378097da4a34285a3d2f91dd83f5
+      internalID: -2821102429095334346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guisprite_24
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 47
+        width: 211
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a75068c335c3945bdcf2eb75ff6ebe
+      internalID: 3580659159206833122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
